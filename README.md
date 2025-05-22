@@ -25,10 +25,19 @@ It presents a detailed view of credit card transactions from over **1,200+ clien
 
 ---
 
+## Dashboard Screenshots
+
+### 💳 Transaction Dashboard
+
+![Credit Card Transaction Dashboard](https://github.com/Kousarsaleem32/Credit-Card-Financial-Dashboard-Power-Bi-Project-Using-sql-database/blob/main/Credit_Card_Transaction_Report.png)
+
+### 👥 Customer Dashboard
+
+![Credit Card Customer Dashboard](https://github.com/Kousarsaleem32/Credit-Card-Financial-Dashboard-Power-Bi-Project-Using-sql-database/blob/main/Credit_Card_Customer_Report.png)
 
 ---
 
-## 📌 Key KPIs Tracked
+## Key KPIs Tracked
 
 | KPI                 | Description                                                 |
 |---------------------|-------------------------------------------------------------|
@@ -41,14 +50,14 @@ It presents a detailed view of credit card transactions from over **1,200+ clien
 
 ---
 
-## 🔍 Project Insights – Week 53 (31st Dec)
+## Project Insights – Week 53 (31st Dec)
 
 ### 📈 Week-over-Week (WoW) Change:
 - Revenue decreased by **-12.8%**
 - Transaction Revenue and Count fluctuated in prior weeks
 - Activation rates remained relatively stable
 
-### 📊 Overview YTD:
+### Overview YTD:
 - **Total Revenue**: **55M**
 - **Total Interest Earned**: **8M**
 - **Total Transaction Amount**: **45M**
