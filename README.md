@@ -1,6 +1,6 @@
 # Credit-Card-Financial-Dashboard-Power-Bi-Project-Using-SQL-database
 
-## 🧾 Project Objective
+## Project Objective
 
 To develop a **comprehensive credit card weekly dashboard** that provides **real-time insights** into key performance metrics and trends, enabling stakeholders to **monitor and analyze credit card operations** effectively.
 
@@ -8,7 +8,7 @@ To develop a **comprehensive credit card weekly dashboard** that provides **real
 
 This project leverages **Power BI connected to a live SQL database**, allowing automatic updates in the dashboard whenever new transaction or customer data is added. The dashboard is designed to help track credit card usage, revenue generation, and customer engagement patterns over time.
 
-It presents a detailed view of credit card transactions from over **1,200+ clients**, enabling the business to:
+It presents a detailed view of credit card transactions from over **12,000+ clients**, enabling the business to:
 - Track **weekly and quarterly trends**
 - Monitor **revenue, interest, and transaction count**
 - Segment users by **card type, job level, income, state, and more**
@@ -52,7 +52,7 @@ It presents a detailed view of credit card transactions from over **1,200+ clien
 
 ## Project Insights – Week 53 (31st Dec)
 
-### 📈 Week-over-Week (WoW) Change:
+### Week-over-Week (WoW) Change:
 - Revenue decreased by **-12.8%**
 - Transaction Revenue and Count fluctuated in prior weeks
 - Activation rates remained relatively stable
@@ -62,38 +62,37 @@ It presents a detailed view of credit card transactions from over **1,200+ clien
 - **Total Interest Earned**: **8M**
 - **Total Transaction Amount**: **45M**
 - **Total Transaction Count**: **656K**
+- **Customer Satisfaction**: **3.2**
 
 ---
 
 ## Key Insights
 
 - **Male customers** contributed more to revenue (**26M**) than females (**20M**)
-- **Blue and Silver cards** accounted for **93.93%** of total revenue
 - **TX, NY, and CA** together contributed to **68%** of total state-wise revenue
 - **Activation Rate (within 30 days)**: **57.47%**
 - **Delinquency Rate**: **6.07%**
 
 ### Revenue Breakdown:
-- **Top Card**: Blue (46M), Silver (5.5M)
-- **Top Job Groups**: Businessmen, Self-employed
+- **Top Card**: Blue (46M)
+- **Top Job Groups**: Businessmen, White-Col
 - **Top Age Group**: 40–50 years (25M+)
-- **Top States**: TX (13M), NY (13M), CA (12M)
+- **Top States**: TX (13M), NY (13M), CA (13M)
 
 ---
 
 ## Future Improvements
-
-- Integrate **forecasting models** for revenue and delinquency trends
 - Add **anomaly detection** for suspicious transactions
 - Enhance **customer segmentation** using clustering algorithms
-- Automate **scheduled data refreshes** for hourly updates
 
 ---
 
 ## Contact
 
-For feedback or queries, contact:  
-Email: kousar.kousar@bilkent.edu.tr
+For queries, feel free to reach out at:
+
+**Email**: [kousar.kousar@bilkent.edu.tr](mailto:kousar.kousar@bilkent.edu.tr)
+
 
 
 
