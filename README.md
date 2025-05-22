@@ -92,8 +92,8 @@ It presents a detailed view of credit card transactions from over **1,200+ clien
 
 ## Contact
 
-**Aqsa Shabbir**  
-📧 [aqsa.shabbir@bilkent.edu.tr](mailto:aqsa.shabbir@bilkent.edu.tr)  
+For feedback or queries, contact:  
+Email: kousar.kousar@bilkent.edu.tr
 
 
 
